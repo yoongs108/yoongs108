@@ -28,7 +28,7 @@ techs that I've used at least once
 <img src="https://img.shields.io/badge/SQLdeveloper-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp;
 
-</divd>
+</div>
 
 ## &nbsp;Strength
 * 🤝 &nbsp;a supportive team player
