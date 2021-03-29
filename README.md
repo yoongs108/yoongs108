@@ -1,4 +1,6 @@
-# yoongs108 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoongs108&count_bg=%23235C88&title_bg=%2399C9C5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# yoongs108 :tada:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoongs108&count_bg=%23235C88&title_bg=%2399C9C5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+(https://hits.seeyoufarm.com)
 ### Hi there 👋
 
 <!--
