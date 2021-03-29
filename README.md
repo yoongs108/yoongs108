@@ -27,7 +27,7 @@
 
 </div>
 
-## &nbsp;Strengthd
+## &nbsp;Strength
 * 🤝 &nbsp;a supportive team player
 * 📝 &nbsp;enjoy learning new skills and Fast learner 🚀
 * ✨ &nbsp;always find a way
