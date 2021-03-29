@@ -11,8 +11,6 @@
 
 ![yoongs108's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongs108&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoongs108&layout=compact&theme=cobalt)](https://github.com/yoongs108/github-readme-stats)
-
-</div>
  
 ### 🛠 &nbsp;Tech Stack
 ###### techs that I've used at least once
@@ -33,7 +31,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp;
 
 ### 👋 &nbsp;Contact me
-<div align=center>
+
  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoongs108.github.io/)](https://yoongs108.github.io/) &nbsp; Tech Blog are under construction🔨 기술 블로그는 공사중 🔨 
 
