@@ -6,11 +6,13 @@
 * Usually using Java language
 * Want to be ✨&nbsp;_awesome_&nbsp;✨ fullstack developer
  
+ 
 ## 🛠 &nbsp;Tech Stack
-##### techs that I've used at least once
 
 <div align=center>
- 
+
+##### techs that I've used at least once
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
