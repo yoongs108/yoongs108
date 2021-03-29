@@ -6,8 +6,10 @@ d# yoongs108 :space_invader: [![Hits](https://hits.seeyoufarm.com/api/count/incr
   I am student developer. :pencil:
   </em>
 </p>
+<div align=right>
+  ![yoongs108's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongs108&show_icons=true&theme=highcontrast)
+</div>
 
-![yoongs108's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongs108&show_icons=true&theme=synthwave)
 <!--
 **yoongs108/yoongs108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
