@@ -35,4 +35,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoongs108@gmail.com)](mailto:yoongs108@gmail.com)
 
 </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
