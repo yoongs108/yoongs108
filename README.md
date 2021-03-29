@@ -1,25 +1,18 @@
 # yoongs108 :space_invader: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoongs108&count_bg=%23235C88&title_bg=%2399C9C5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### HELLO WORLD! 👋 
+#### HELLO WORLD! 👋 
+* Junior Web developer
+* 
 
 ![yoongs108's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongs108&show_icons=true&theme=cobalt)
 
-### 💻 &nbsp;Tech Stack
+### 🖥 &nbsp;Tech Stack
+###### techs that I've used at least once
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
 
-### Project
+### 👩‍💻 &nbsp;Project
+1. Academy (2020.)
+  * Semi
+  * Final
 
 
-
-**yoongs108/yoongs108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
