@@ -1,17 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Yoonjin%20Lee&fontSize=65)
 
 
-
+<div align=center>
+ 
 ## HELLO WORLD! 🥳 &nbsp;&nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoongs108&count_bg=%23235C88&title_bg=%2399C9C5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 * Beginner Web developer
 * Usually using Java language
 * Want to be ✨&nbsp;_awesome_&nbsp;✨ fullstack developer
 
-![yoongs108's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoongs108&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoongs108&layout=compact&theme=cobalt)](https://github.com/yoongs108/github-readme-stats)
 
-<div align=center>
- 
 ## 🛠 &nbsp;Tech Stack
 ##### techs that I've used at least once
 
@@ -29,12 +26,19 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp;
 
+## &nbsp;Strength
+* 🚀 Fast leaner
+* 🤝 a supporative team player
+* 📝 
+
 ## 👋 &nbsp;Contact me
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoongs108.github.io/)](https://yoongs108.github.io/) &nbsp; -Tech Blog are under construction🔨 기술 블로그는 공사중 🔨 
 
+[![Tech Blog Badge](http://img.shields.io/badge/Notion-0000000?style=flat-square&logo=Notion&l&logoColor=white&link=#/)](https://#/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoongs108@gmail.com)](mailto:yoongs108@gmail.com)
 
 </div>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
