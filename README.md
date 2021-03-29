@@ -8,26 +8,27 @@
  
  
 ## 🛠 &nbsp;Tech Stack
+techs that I've used at least once
 
 <div align=center>
 
-##### techs that I've used at least once
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>&nbsp;
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white"/>&nbsp;
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/SQLdeveloper-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp;
 
-</div>
+</divd>
 
 ## &nbsp;Strength
 * 🤝 &nbsp;a supportive team player
